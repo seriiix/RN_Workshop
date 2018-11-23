@@ -1,3 +1,4 @@
 # Install Native Base
-1- `yard add native-base`
-2- `react-native link`
+Install Native Base with yarn: `yard add native-base`
+
+Link it: `react-native link`
