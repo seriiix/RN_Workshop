@@ -7,5 +7,3 @@
 `yarn add react-native-gesture-handler`
 
 `react-native link`
-
-Make sure your VPN is on
